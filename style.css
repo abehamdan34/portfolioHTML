@@ -1,0 +1,34 @@
+body{
+    background-color: darkgray;
+    background-image: url("pixelrainbowbackround.gif");
+    background-size: cover;
+    
+    
+    
+    height: 100vh;
+    padding:0;
+    margin:0;
+}
+
+h1{
+    text-align: center;
+}
+.Intro{
+    text-align: center;
+}
+img{
+    height: 200px;
+    width: 300px;
+}
+.ghubLink{
+    text-align: center;
+}
+.backButton{
+    text-align: center;
+}
+.abeBio{
+    text-align: center;
+}
+.linkedinLink{
+    text-align: center;
+}
